@@ -149,4 +149,9 @@
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
 
+#### Name: FAIZ NURULLAH
+ 
+- Place: CIREBON, JAWA BARAT, INDONESIA
+- Bio: JUNIOR CONSTRUCT DEVELOPER
+
 
