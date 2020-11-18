@@ -149,4 +149,9 @@
  - Bio : IS Student,Localhost Sysadmin
  - Github : [ilham](https://github.com/IlhamSetiawan)
 
+ #### Name: Nuclear
+ 
+ - Place: Bihar, India
+ - Bio: College Student, Javscript & Python Dev
+ - GitHub: [nucle4r](https://github.com/nucle4r)
 
